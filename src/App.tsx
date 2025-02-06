@@ -15,18 +15,20 @@ export default function Page() {
       "No",
       "Are you sure?",
       "What if I asked really nicely?",
-      "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
-      "PLEASE POOKIE",
+      "What if I behvae the whole day as a good boy?",
+      "Woof Woof"
+      "Pretty please?",
+      "Sally please? (get it? its because Sally=Pretty)",
+      "We can have a silly day together >_<",
+      "We can set rules like humping is off limits",
+      "I'll buy you lots of yummies and flowers tho"
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
-      "please babe",
+      "ok ur talking to Fwan's ghost",
+      "I promise to make it a comfortable no mental boom day",
       ":((((",
-      "PRETTY PLEASE",
-      "Estoy muerto",
+      "PRETTY PLEASE :pleading:",
       "No :(",
     ];
 
